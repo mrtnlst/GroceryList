@@ -1,6 +1,6 @@
 # GroceryList
 
-* Hafermilch
+* Kuhmilch
 * Gruyère
 * Eier
 * Parmesan
